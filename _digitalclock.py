@@ -1,5 +1,5 @@
 from  tkinter import*
-import datetime
+import datetime                       #digital clock
 
 def date_time():
     time = datetime.datetime.now()
